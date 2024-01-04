@@ -1,0 +1,385 @@
+              < NCAA DIVISION I MENS BASKETBALL RANKINGS >
+    BASED ON 2142 GAMES BETWEEN 362 TEAMS, AND NO OTHER INFORMATION
+                   CALCULATED TUESDAY 2 JANUARY 2024
+      FOUNDATION FOR THE ANALYSIS OF COMPETITIONS AND TOURNAMENTS
+ 
+  RANK   TEAM               DIVISION  LOGIT  PCT.  RRE    PF   PA  W  L
+ 
+    1 Houston                BIG12    60.63  .949  .961  987  642 13  0
+    2 Purdue                 BIG10    56.61  .861  .940 1128  885 12  1
+    3 BYU                    BIG12    53.80  .908  .921 1175  800 12  1
+    4 Kansas                 BIG12    53.46  .830  .919  952  793 11  1
+    5 Clemson                ACC      51.84  .838  .905  987  830 11  1
+    6 Tennessee              SEC      51.60  .736  .903  925  786  9  3
+    7 Oklahoma               BIG12    50.33  .877  .892 1073  822 12  1
+    8 Utah                   PAC12    50.28  .779  .891 1062  901 11  2
+    9 Marquette              BIGEAS   50.27  .745  .891 1092  929 11  3
+   10 Connecticut            BIGEAS   50.16  .819  .890 1079  835 11  2
+   11 Colorado St.           MTNW     49.48  .841  .883  909  772 10  1
+   12 Arizona                PAC12    49.14  .761  .880 1200  954 10  3
+   13 Illinois               BIG10    48.99  .821  .878  995  786 10  2
+   14 North Carolina         ACC      48.86  .743  .877 1035  879  9  3
+   15 Providence             BIGEAS   48.72  .799  .875  978  831 11  2
+   16 Kentucky               SEC      48.34  .814  .871 1093  881 10  2
+   17 Wisconsin              BIG10    47.71  .718  .864  890  779  9  3
+   18 Memphis                AMER     47.54  .754  .862 1031  943 11  2
+   19 San Diego St.          MTNW     47.00  .742  .856  848  762  9  2
+   20 Nevada                 MTNW     46.98  .850  .856 1023  842 12  1
+   21 James Madison          SUN      46.63  .906  .852 1063  877 12  0
+   22 Grand Canyon           WAC      46.41  .827  .849  950  812 11  1
+   23 Dayton                 A10      46.25  .762  .847  893  787 10  2
+   24 South Carolina         SEC      46.16  .837  .846  981  820 12  1
+   25 Auburn                 SEC      46.00  .831  .844 1015  799 10  2
+   26 Colorado               PAC12    45.95  .815  .843 1095  895 11  2
+   27 Florida Atlantic       AMER     45.53  .737  .838 1082  916 10  3
+   28 Mississippi            SEC      45.52  .865  .838 1006  881 13  0
+   29 Baylor                 BIG12    45.41  .783  .836  965  752  9  2
+   30 Alabama                SEC      44.65  .652  .827 1207  986  8  5
+   31 Duke                   ACC      44.37  .761  .823 1000  800  9  3
+   32 Texas A&M              SEC      44.30  .682  .822  990  866  9  4
+   33 Michigan St.           BIG10    44.07  .651  .819 1004  839  8  5
+   34 Mississippi St.        SEC      43.89  .812  .816  991  815 11  2
+   35 Miami FL               ACC      43.79  .778  .815 1016  837 10  2
+   36 Nebraska               BIG10    43.66  .798  .813 1009  851 11  2
+   37 Northwestern           BIG10    43.60  .773  .812  875  757 10  2
+   38 Ohio St.               BIG10    43.56  .805  .811 1031  844 11  2
+   39 TCU                    BIG12    43.48  .825  .810 1115  864 11  2
+   40 Utah St.               MTNW     43.41  .814  .809  872  753 10  1
+   41 Iowa St.               BIG12    43.25  .843  .807 1121  768 11  2
+   42 New Mexico             MTNW     42.94  .844  .803 1012  819 11  1
+   43 Creighton              BIGEAS   42.91  .693  .802 1063  872  9  4
+   44 Texas                  BIG12    42.48  .808  .796 1029  836 11  2
+   45 Butler                 BIGEAS   42.47  .719  .796  985  850  9  3
+   46 Wake Forest            ACC      42.32  .755  .793  976  815  9  3
+   47 Cincinnati             BIG12    42.16  .813  .791 1067  856 11  2
+   48 Syracuse               ACC      42.15  .687  .791  914  859  9  3
+   49 Princeton              IVY      42.08  .810  .790  840  740 10  1
+   50 Gonzaga                WCC      41.98  .667  .788  963  832  8  4
+   51 Florida                SEC      41.98  .753  .788 1122  958 10  3
+   52 Villanova              BIGEAS   41.97  .687  .788  957  826  9  4
+   53 Washington             PAC12    41.67  .611  .784 1072  987  8  5
+   54 Virginia               ACC      41.65  .712  .783  855  730 10  3
+   55 St. John's             BIGEAS   41.03  .669  .774 1030  908  9  4
+   56 Oregon                 PAC12    40.99  .722  .773 1015  913 10  3
+   57 Indiana St.            MVC      40.83  .781  .771 1043  877 10  2
+   58 Georgia                SEC      40.54  .707  .766  980  902 10  3
+   59 N.C. State             ACC      40.52  .716  .765  958  842  9  3
+   60 Texas Tech             BIG12    40.12  .797  .759 1014  838 11  2
+   61 Virginia Tech          ACC      40.12  .668  .759  954  859  9  4
+   62 Kansas St.             BIG12    40.09  .678  .759  924  847  9  3
+   63 Boise St.              MTNW     39.79  .604  .754  788  728  7  4
+   64 San Francisco          WCC      39.74  .721  .753 1030  830 10  4
+   65 Drake                  MVC      39.73  .786  .753  936  803 10  2
+   66 Arkansas               SEC      39.55  .654  .750 1070  993  9  4
+   67 Indiana                BIG10    39.47  .686  .748  992  954 10  3
+   68 Saint Mary's           WCC      39.28  .582  .745  948  850  8  6
+   69 Pittsburgh             ACC      39.17  .700  .743 1046  842  9  4
+   70 George Mason           A10      38.92  .761  .739  895  794 10  2
+   71 Xavier                 BIGEAS   38.58  .572  .733  979  904  7  6
+   72 McNeese St.            SLAND    38.46  .736  .731  671  596  7  2
+   73 Washington St.         PAC12    38.44  .680  .731  976  841  9  4
+   74 Duquesne               A10      38.35  .681  .729  838  770  8  3
+   75 Saint Joseph's         A10      38.30  .746  .728 1013  841 10  3
+   76 SMU                    AMER     37.96  .687  .722  911  746  8  4
+   77 Liberty                CUSA     37.65  .656  .717  884  805  8  4
+   78 Boston College         ACC      37.64  .715  .716  953  850  9  3
+   79 Georgia Tech           ACC      37.45  .601  .713  860  853  8  4
+   80 Minnesota              BIG10    37.33  .764  .711 1046  862 10  3
+   81 Iowa                   BIG10    37.13  .628  .707 1142 1004  8  5
+   82 Samford                STHRN    37.06  .779  .706  949  841  9  2
+   83 UCF                    BIG12    36.99  .737  .705  943  770  9  3
+   84 VCU                    A10      36.56  .630  .697  959  862  8  5
+   85 Michigan               BIG10    36.44  .510  .695 1081 1028  6  7
+   86 Arizona St.            PAC12    35.86  .550  .684  883  907  8  5
+   87 Rutgers                BIG10    35.80  .637  .683  810  737  8  4
+   88 Purdue Fort Wayne      HORZ     35.75  .785  .682 1028  888 11  2
+   89 Seton Hall             BIGEAS   35.65  .603  .680  961  897  8  5
+   90 Missouri               SEC      35.43  .606  .676  995  927  8  5
+   91 Cornell                IVY      35.11  .741  .670  909  834  9  2
+   92 UC Irvine              BIGWES   34.78  .623  .663  988  891  8  5
+   93 St. Bonaventure        A10      34.72  .704  .662  892  771  9  3
+   94 Massachusetts          A10      34.41  .746  .656 1009  865  9  3
+   95 Louisiana Tech         CUSA     34.40  .593  .656  851  791  7  5
+   96 Southern Illinois      MVC      34.33  .675  .654  893  768  8  4
+   97 Stanford               PAC12    34.22  .539  .652  957  904  6  6
+   98 Wichita St.            AMER     34.12  .558  .650  884  868  7  5
+   99 Davidson               A10      34.04  .666  .649  763  726  8  3
+  100 Tulane                 AMER     33.98  .699  .648  983  894  8  3
+  101 Appalachian St.        SUN      33.94  .692  .647  824  739  8  3
+  102 Charleston             COL      33.74  .604  .643  925  910  8  4
+  103 Evansville             MVC      33.58  .687  .640  932  876  9  3
+  104 USC                    PAC12    33.44  .497  .637 1008  972  6  7
+  105 Santa Clara            WCC      33.23  .556  .632 1051 1017  8  6
+  106 Bradley                MVC      33.14  .557  .631  865  846  7  5
+  107 Florida St.            ACC      33.14  .517  .631  914  885  6  6
+  108 Missouri St.           MVC      32.78  .669  .623  957  875  9  4
+  109 Weber St.              BIGSKY   32.69  .612  .622  702  631  6  4
+  110 Oregon St.             PAC12    32.62  .594  .620  853  853  8  4
+  111 LSU                    SEC      32.59  .611  .619  998  897  8  5
+  112 Maryland               BIG10    32.43  .683  .616  951  824  9  4
+  113 Western Carolina       STHRN    32.20  .704  .612  722  684  8  2
+  114 George Washington      A10      32.12  .742  .610  963  863 10  2
+  115 Akron                  MAC      32.12  .583  .610  720  696  6  4
+  116 UNC Wilmington         COL      31.95  .602  .606  689  687  6  3
+  117 Seattle                WAC      31.90  .603  .605  884  809  7  5
+  118 Hawaii                 BIGWES   31.78  .570  .603  791  741  6  5
+  119 Oakland                HORZ     31.73  .467  .602 1085 1112  7  8
+  120 Kent St.               MAC      31.58  .509  .599  777  756  5  5
+  121 Richmond               A10      31.36  .630  .594  975  855  8  5
+  122 UNLV                   MTNW     31.35  .522  .594  731  710  5  5
+  123 High Point             BIGSO    31.30  .673  .593 1053  965  9  4
+  124 North Texas            AMER     31.17  .557  .590  671  600  5  5
+  125 Vermont                AEAST    31.00  .563  .587  829  806  7  5
+  126 Morehead St.           OVC      30.90  .564  .584  704  723  6  4
+  127 Hofstra                COL      30.88  .511  .584  900  877  6  6
+  128 Penn St.               BIG10    30.71  .567  .580 1007  914  7  6
+  129 Charlotte              AMER     30.63  .490  .579  733  718  5  6
+  130 Radford                BIGSO    30.55  .572  .577  919  929  8  5
+  131 West Virginia          BIG12    30.15  .428  .569  888  904  5  8
+  132 UCLA                   PAC12    30.14  .474  .568  797  760  5  7
+  133 Toledo                 MAC      29.86  .479  .562  947  958  6  6
+  134 Belmont                MVC      29.86  .592  .562  961  970  8  4
+  135 Saint Louis            A10      29.72  .466  .559  860  915  6  6
+  136 Cleveland St.          HORZ     29.71  .607  .559 1049 1011  9  5
+  137 Oklahoma St.           BIG12    29.71  .623  .559  908  805  7  5
+  138 Lipscomb               ASUN     29.35  .535  .552  995  969  7  6
+  139 Cal St. Northridge     BIGWES   29.19  .697  .548  939  855  9  3
+  140 Northern Iowa          MVC      29.17  .467  .548  921  909  5  7
+  141 Long Beach St.         BIGWES   29.15  .541  .547  925  930  7  5
+  142 Yale                   IVY      29.12  .496  .547  844  848  6  6
+  143 Montana                BIGSKY   29.03  .485  .545  691  729  5  5
+  144 UNC Greensboro         STHRN    28.96  .586  .543  798  798  7  4
+  145 Notre Dame             ACC      28.91  .456  .542  827  853  6  7
+  146 Youngstown St.         HORZ     28.89  .570  .542  739  728  6  4
+  147 Monmouth               COL      28.83  .503  .540  928  957  7  6
+  148 Tarleton St.           WAC      28.74  .551  .538  652  667  6  4
+  149 Harvard                IVY      28.58  .576  .535  800  794  7  4
+  150 South Florida          AMER     28.56  .622  .534  842  768  7  4
+  151 UAB                    AMER     28.49  .535  .533  915  931  7  5
+  152 Loyola Chicago         A10      28.43  .566  .532  850  803  7  5
+  153 Western Kentucky       CUSA     28.36  .642  .530  839  815  8  3
+  154 San Diego              WCC      28.31  .565  .529  947  948  8  5
+  155 Stephen F. Austin      WAC      28.30  .558  .529  804  759  6  5
+  156 Northern Illinois      MAC      28.06  .386  .524  760  838  4  6
+  157 Tulsa                  AMER     28.03  .698  .523  831  739  8  3
+  158 Eastern Washington     BIGSKY   27.94  .380  .521  802  856  4  7
+  159 Portland St.           BIGSKY   27.83  .571  .519  763  776  7  4
+  160 Canisius               MAAC     27.77  .473  .517  815  815  5  6
+  161 Longwood               BIGSO    27.77  .709  .517  895  790  9  3
+  162 Georgetown             BIGEAS   27.61  .530  .514  958  940  7  6
+  163 Penn                   IVY      27.55  .500  .513  881  898  6  6
+  164 Wyoming                MTNW     27.51  .442  .512  789  834  5  6
+  165 Delaware               COL      27.33  .585  .508  903  860  7  5
+  166 Illinois Chicago       MVC      27.32  .541  .508  824  769  6  6
+  167 East Tennessee St.     STHRN    27.28  .516  .507  761  781  6  5
+  168 Winthrop               BIGSO    27.14  .506  .504  883  863  6  6
+  169 Colgate                PAT      27.02  .404  .501  785  838  5  7
+  170 New Hampshire          AEAST    26.89  .538  .498  902  910  7  5
+  171 Drexel                 COL      26.73  .550  .495  899  843  7  6
+  172 Bowling Green          MAC      26.73  .639  .495  712  674  7  3
+  173 Marshall               SUN      26.73  .418  .495  967 1012  5  8
+  174 Temple                 AMER     26.66  .482  .493  876  897  6  6
+  175 Cal St. Fullerton      BIGWES   26.64  .444  .493  769  850  6  6
+  176 South Dakota St.       SUMMIT   26.54  .411  .491  782  804  4  7
+  177 Utah Valley            WAC      26.43  .364  .488  712  779  4  7
+  178 Illinois St.           MVC      26.32  .547  .486  817  825  7  5
+  179 California             PAC12    26.31  .379  .486  986 1006  4  9
+  180 UT Arlington           WAC      26.30  .377  .485  770  850  4  7
+  181 Loyola Marymount       WCC      26.15  .488  .482  936  906  6  7
+  182 Louisiana              SUN      26.08  .479  .480  817  820  5  6
+  183 Iona                   MAAC     26.08  .488  .480  930  922  6  7
+  184 Furman                 STHRN    26.05  .449  .480  843  837  4  6
+  185 La Salle               A10      26.00  .604  .479  905  892  8  4
+  186 Cal Baptist            WAC      25.92  .553  .477  766  736  6  5
+  187 UNC Asheville          BIGSO    25.77  .411  .474  897  959  5  7
+  188 Fresno St.             MTNW     25.70  .488  .472  851  872  6  6
+  189 UMass Lowell           AEAST    25.64  .593  .471  721  675  6  4
+  190 St. Thomas             SUMMIT   25.62  .590  .470  802  742  7  5
+  191 East Carolina          AMER     25.42  .517  .466  873  849  6  6
+  192 Texas St.              SUN      25.35  .371  .465  688  781  4  7
+  193 UC San Diego           BIGWES   25.30  .495  .464  780  758  5  6
+  194 Towson                 COL      25.05  .486  .458  785  806  6  6
+  195 Rhode Island           A10      25.03  .430  .458  849  880  5  7
+  196 South Alabama          SUN      25.03  .567  .458  715  735  6  4
+  197 San Jose St.           MTNW     25.01  .508  .457  867  852  6  6
+  198 UTEP                   CUSA     24.94  .451  .456  741  772  5  6
+  199 UC Santa Barbara       BIGWES   24.84  .504  .453  749  746  5  5
+  200 Bryant                 AEAST    24.83  .451  .453  945  997  6  7
+  201 Stetson                ASUN     24.82  .432  .453  774  836  5  6
+  202 DePaul                 BIGEAS   24.76  .294  .452  803  905  3  9
+  203 Wofford                STHRN    24.75  .416  .452  776  810  4  6
+  204 Northern Colorado      BIGSKY   24.60  .411  .448  770  807  4  6
+  205 Southern               SWAC     24.47  .296  .445  684  824  3  7
+  206 Norfolk St.            MEAC     24.28  .489  .441  836  838  6  6
+  207 Stony Brook            COL      24.24  .471  .440  838  900  6  6
+  208 Vanderbilt             SEC      24.22  .414  .440  890  923  5  8
+  209 Ball St.               MAC      24.12  .550  .438  707  721  6  4
+  210 Chattanooga            STHRN    24.11  .530  .438  824  832  6  5
+  211 Texas A&M Commerce     SLAND    24.10  .270  .437  622  795  3  7
+  212 Ohio                   MAC      24.07  .500  .437  844  816  5  6
+  213 Fordham                A10      23.97  .487  .434  948  922  6  7
+  214 Green Bay              HORZ     23.93  .461  .434  841  893  6  7
+  215 Quinnipiac             MAAC     23.89  .598  .433  899  897  8  4
+  216 Denver                 SUMMIT   23.81  .479  .431  897  890  5  6
+  217 Rice                   AMER     23.81  .427  .431  859  902  5  7
+  218 UC Riverside           BIGWES   23.80  .366  .431  790  873  4  8
+  219 Kennesaw St.           ASUN     23.69  .512  .429  912  932  6  5
+  220 Mercer                 STHRN    23.58  .463  .426  674  717  5  5
+  221 Wright St.             HORZ     23.57  .392  .426  987  999  4  8
+  222 Abilene Christian      WAC      23.51  .374  .425  873  919  4  8
+  223 Northeastern           COL      23.46  .425  .424  946  969  5  8
+  224 Northern Arizona       BIGSKY   23.40  .413  .422  870  996  6  7
+  225 UC Davis               BIGWES   23.23  .483  .418  771  752  5  6
+  226 Montana St.            BIGSKY   23.19  .394  .418  680  735  4  6
+  227 Columbia               IVY      23.00  .578  .414  752  731  6  4
+  228 Utah Tech              WAC      22.94  .410  .412  847  924  5  7
+  229 Jacksonville St.       CUSA     22.86  .471  .411  798  771  5  7
+  230 Louisville             ACC      22.84  .440  .410  895  905  5  7
+  231 Miami OH               MAC      22.71  .395  .407  697  747  4  6
+  232 Marist                 MAAC     22.71  .629  .407  730  669  7  4
+  233 Tennessee Martin       OVC      22.59  .444  .405  896  929  5  6
+  234 The Citadel            STHRN    22.58  .514  .404  683  656  5  5
+  235 Georgia St.            SUN      22.36  .413  .400  748  789  4  6
+  236 Austin Peay            ASUN     22.33  .349  .399  742  813  4  8
+  237 Saint Peter's          MAAC     22.33  .491  .399  623  634  5  5
+  238 Air Force              MTNW     22.22  .584  .397  830  780  7  5
+  239 Portland               WCC      22.03  .338  .393  916 1011  4  9
+  240 Idaho                  BIGSKY   21.89  .419  .390  820  873  5  7
+  241 Old Dominion           SUN      21.86  .292  .389  843  935  3  9
+  242 Merrimack              NEC      21.76  .369  .387  783  831  4  8
+  243 Fairfield              MAAC     21.68  .493  .385  870  878  6  6
+  244 North Dakota St.       SUMMIT   21.67  .361  .385  762  837  4  7
+  245 Oral Roberts           SUMMIT   21.64  .322  .385  713  780  3  7
+  246 Albany                 AEAST    21.62  .519  .384  986  984  7  6
+  247 Pepperdine             WCC      21.56  .417  .383  923  942  5  8
+  248 Sam Houston St.        CUSA     21.50  .393  .381  906  969  5  8
+  249 Jackson St.            SWAC     21.21  .293  .375  894 1049  4  9
+  250 New Mexico St.         CUSA     21.15  .243  .374  741  880  2  9
+  251 Elon                   COL      21.10  .430  .373  816  872  5  6
+  252 Northern Kentucky      HORZ     21.07  .443  .372  834  869  5  7
+  253 Little Rock            OVC      21.05  .471  .372 1188 1208  7  8
+  254 Alabama St.            SWAC     21.04  .230  .372  669  799  2  8
+  255 Jacksonville           ASUN     20.89  .495  .369  774  881  6  5
+  256 Eastern Michigan       MAC      20.86  .450  .368  672  760  5  5
+  257 Arkansas St.           SUN      20.85  .370  .368  981 1026  4  9
+  258 Binghamton             AEAST    20.79  .504  .367  773  820  6  5
+  259 Gardner Webb           BIGSO    20.66  .240  .364  830  925  2 10
+  260 Queens                 ASUN     20.64  .298  .364  953 1111  4  9
+  261 Southern Utah          WAC      20.62  .346  .363  811  854  3  8
+  262 Tennessee St.          OVC      20.61  .385  .363  801  859  4  7
+  263 Nicholls St.           SLAND    20.51  .246  .361  695  793  2  8
+  264 Maine                  AEAST    20.45  .497  .360  921  935  7  7
+  265 North Dakota           SUMMIT   20.44  .402  .359  817  898  5  7
+  266 North Carolina Central MEAC     20.40  .380  .359  734  812  4  7
+  267 Western Illinois       OVC      20.32  .403  .357  655  729  4  6
+  268 Milwaukee              HORZ     20.27  .393  .356  891  964  5  7
+  269 Middle Tennessee       CUSA     20.24  .337  .355  790  889  4  9
+  270 North Alabama          ASUN     20.17  .373  .354  867  927  4  8
+  271 Murray St.             MVC      20.05  .333  .351  839  881  3  9
+  272 SIU Edwardsville       OVC      19.71  .410  .344  799  855  5  7
+  273 Florida Gulf Coast     ASUN     19.61  .294  .342  781  878  3  9
+  274 Howard                 MEAC     19.47  .356  .339  991 1047  4  9
+  275 Troy                   SUN      18.95  .446  .329  758  763  4  6
+  276 Florida A&M            SWAC     18.71  .119  .324  523  749  1  8
+  277 FIU                    CUSA     18.71  .340  .324 1022 1100  4 10
+  278 Southern Miss          SUN      18.61  .360  .322  767  841  4  7
+  279 Prairie View A&M       SWAC     18.44  .272  .319  745  901  3  8
+  280 Central Connecticut    NEC      18.31  .390  .316  757  793  4  7
+  281 Bellarmine             ASUN     18.25  .177  .315  764  925  1 11
+  282 Chicago St.            INDEP    18.08  .369  .312 1224 1342  7 12
+  283 Central Michigan       MAC      17.88  .341  .308  695  847  4  7
+  284 Boston University      PAT      17.70  .374  .304  769  813  4  8
+  285 South Dakota           SUMMIT   17.51  .416  .300  877  943  5  7
+  286 Valparaiso             MVC      17.47  .300  .300  779  863  3  9
+  287 Cal St. Bakersfield    BIGWES   17.08  .293  .292  722  817  3  8
+  288 Wagner                 NEC      17.07  .385  .292  584  656  4  6
+  289 UTSA                   AMER     16.88  .424  .288  930  970  5  7
+  290 Lamar                  SLAND    16.72  .410  .285  867  884  4  7
+  291 USC Upstate            BIGSO    16.72  .251  .285  658  749  2  8
+  292 Bucknell               PAT      16.72  .265  .285  805  934  3 10
+  293 Cal Poly               BIGWES   16.55  .253  .282  820  956  3 10
+  294 Western Michigan       MAC      16.49  .237  .281  730  829  2  9
+  295 Presbyterian           BIGSO    16.20  .422  .276  866  908  5  7
+  296 UMKC                   SUMMIT   16.20  .289  .276  802  900  3  9
+  297 American               PAT      15.80  .421  .268  855  904  5  7
+  298 Delaware St.           MEAC     15.75  .369  .267  951 1063  5  9
+  299 Mount St. Mary's       MAAC     15.61  .452  .265  960  925  5  8
+  300 Manhattan              MAAC     15.43  .290  .262  639  769  3  7
+  301 Brown                  IVY      15.21  .303  .258  880  947  3 10
+  302 North Florida          ASUN     15.18  .339  .257  848  954  4  8
+  303 Navy                   PAT      15.14  .382  .256  659  663  3  7
+  304 Sacred Heart           NEC      15.10  .347  .256  905  980  4  9
+  305 Nebraska Omaha         SUMMIT   15.03  .325  .254  743  811  3  8
+  306 Rider                  MAAC     14.93  .232  .253  811  934  2 10
+  307 Texas A&M Corpus Chris SLAND    14.81  .340  .250  599  670  3  6
+  308 Niagara                MAAC     14.42  .317  .244  762  838  3  8
+  309 Tennessee Tech         OVC      14.35  .231  .242  798  936  2 10
+  310 Robert Morris          HORZ     14.30  .238  .242  916 1008  2 11
+  311 Southeastern Louisiana SLAND    14.25  .239  .241  605  748  2  8
+  312 Texas Southern         SWAC     14.15  .149  .239  614  790  1  9
+  313 Campbell               COL      14.06  .341  .237  618  668  3  7
+  314 Idaho St.              BIGSKY   14.03  .260  .237  708  791  2  9
+  315 Lehigh                 PAT      13.99  .206  .236  636  711  1  8
+  316 Pacific                WCC      13.87  .299  .234  825  995  4  9
+  317 Fairleigh Dickinson    NEC      13.85  .325  .234  900 1028  4  8
+  318 Incarnate Word         SLAND    13.62  .314  .230  794  872  3  8
+  319 Louisiana Monroe       SUN      13.61  .263  .230  554  663  2  7
+  320 Sacramento St.         BIGSKY   13.37  .176  .226  708  848  1 10
+  321 Maryland Eastern Shore MEAC     13.26  .126  .224  605  795  1  9
+  322 Bethune Cookman        SWAC     13.23  .290  .223  725  854  3  8
+  323 Dartmouth              IVY      13.01  .236  .220  644  775  2  9
+  324 New Orleans            SLAND    12.67  .173  .214  591  741  1  8
+  325 William & Mary         COL      12.59  .319  .213  813  883  3  8
+  326 NJIT                   AEAST    12.40  .292  .210  738  858  3  8
+  327 Saint Francis          NEC      12.34  .277  .209  676  811  3  8
+  328 Le Moyne               NEC      12.32  .239  .209  745  859  2  9
+  329 Coastal Carolina       SUN      12.28  .217  .208  754  814  1  9
+  330 Army                   PAT      11.94  .270  .203  668  735  2  9
+  331 South Carolina St.     MEAC     11.78  .185  .200  970 1185  2 12
+  332 Eastern Kentucky       ASUN     11.69  .175  .199  707  835  1  9
+  333 UT Rio Grande Valley   WAC      11.29  .210  .193  756  897  2  9
+  334 North Carolina A&T     COL      11.27  .180  .192  901 1109  2 11
+  335 Lindenwood             OVC      10.75  .291  .185  695  832  3  8
+  336 Southeast Missouri St. OVC      10.71  .180  .184  725  910  2  9
+  337 Georgia Southern       SUN      10.52  .167  .181  875 1017  1 12
+  338 Southern Indiana       OVC      10.26  .171  .177  754  911  1 11
+  339 Eastern Illinois       OVC      10.01  .248  .174  604  709  2  8
+  340 Alabama A&M            SWAC      9.99  .106  .174  910 1147  1 12
+  341 UMBC                   AEAST     9.68  .321  .169 1101 1195  4 10
+  342 Stonehill              NEC       9.50  .129  .167  882 1162  1 13
+  343 Alcorn St.             SWAC      9.48  .061  .166  818 1081  0 12
+  344 Hampton                COL       9.46  .172  .166  700  837  1  9
+  345 Central Arkansas       ASUN      9.04  .208  .160  948 1124  2 12
+  346 Holy Cross             PAT       9.03  .215  .160  772  944  2 10
+  347 Charleston Southern    BIGSO     8.16  .151  .149  622  789  1  9
+  348 Morgan St.             MEAC      7.73  .137  .144  843 1100  1 12
+  349 Lafayette              PAT       7.65  .083  .143  697  876  0 12
+  350 Arkansas Pine Bluff    SWAC      7.48  .117  .140  692  885  1  8
+  351 Loyola MD              PAT       7.21  .165  .137  772  915  1 11
+  352 Siena                  MAAC      7.10  .177  .136  774 1002  2 11
+  353 LIU                    NEC       6.52  .130  .129  754  970  1 11
+  354 Buffalo                MAC       6.17  .093  .125  718  877  0 11
+  355 IUPUI                  HORZ      6.09  .206  .124  780  950  2 10
+  356 Houston Christian      SLAND     4.96  .060  .112  564  785  0  9
+  357 Coppin St.             MEAC      4.23  .124  .105  761 1026  1 13
+  358 Detroit Mercy          HORZ      4.08  .083  .103  909 1170  0 15
+  359 VMI                    STHRN     3.99  .107  .102  635  754  0 10
+  360 Grambling St.          SWAC      3.39  .068  .097  569  795  0 10
+  361 Northwestern St.       SLAND     1.78  .080  .083  699  935  0 11
+  362 Mississippi Valley St. SWAC     -1.21  .021  .061  627 1103  0 13
+ 
+                 LEAST LIKELY RESULTS OF TOURNAMENT
+ 
+   1 Florida Atlantic  AMER     68 Florida Gulf Coas ASUN     72 0.123
+   2 Chicago St.       INDEP    75 Northwestern      BIG10    73 0.146
+   3 Bryant            AEAST    61 Florida Atlantic  AMER     52 0.151
+   4 Arizona           PAC12    82 Stanford          PAC12   100 0.189
+   5 Le Moyne          NEC      80 Cal St. Northridg BIGWEST  70 0.208
+   6 Virginia          ACC      54 Notre Dame        ACC      76 0.214
+   7 Connecticut       BIGEAST  60 Seton Hall        BIGEAST  75 0.215
+ 
+ 
+     FOUNDATION FOR THE ANALYSIS OF COMPETITIONS AND TOURNAMENTS (FACT)
+                     DAVID ROTHMAN (1935-2004), FOUNDER
+               FACT standings calculated by Cody Kirkpatrick
+                          talismanred.com/ratings
