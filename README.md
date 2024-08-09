@@ -11,17 +11,17 @@ Modified and shared here:
 <ul>
   <li>By Cody Kirkpatrick</li>
   <li>Contact: codyk@talismanred.com</li>
-  <li>Last update 01/2024</li>
+  <li>Last update 08/2024</li>
 </ul>
 
 ## What is contained here
 
-List of original code files; my updated file; demo files
+Source code; demo files
 
 ## Explanation of Rothman's system
 
 This is a QuickBasic version of David Rothman's sports ranking code.  Yes, QuickBasic!  The code
-was originally written in the late 80's, after all.
+was originally developed in the late 80's, after all.
 
 Simplified, Rothman's system works based on the following principles:
 - Every game played is of equal weight/value
@@ -40,15 +40,16 @@ Get the file ROTHMAN.BAS, which works for me in QB 4.5.  So you will need either
 I've had success with all of those options, but I prefer watching it slooooooowwwwly run on 486 
 and P1 machines, frankly.
 
-"Back in the day," Rothman actually had the code split into two separate programs, one to create the
-ratings and another to create the output list of ranked teams.  I suspect this 
-was for efficiency, but I've never completely figured it out.  A few years ago I decided to combine them 
-into a single source code file, to make the overall process easier.  That's what ROTHMAN.BAS is.
-
 There are also some notes inside ROTHMAN.BAS, if you want to edit the source code.  That's up to you.
 One thing I ask: even thought it is commented out with REM statements, please leave David's original
 contact information in the source code as it has existed for over 20 years, so that we can continue 
 to honor his legacy.
+
+Side note: "Back in the day," Rothman actually had the code split into two separate programs, one to create the
+ratings and another to create the output list of ranked teams.  I suspect this was for efficiency, but I've
+never completely figured it out.  A few years ago I decided to combine them 
+into a single source code file, to make the overall process easier.  That's what ROTHMAN.BAS is.  I can
+provide his original, separate files if you want them; I might add them to the repository at some point.
 
 ## Step 2, you need the data for your league:
 
